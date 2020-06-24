@@ -11,7 +11,7 @@ DARMA Cash Project v2 is the next generation of DARMA Cash blockchain v1. Consen
  - 15 Second Block time.
  - Default Fee: 0.03 DMCH/KB
  - PPoS hard-fork height: 40320, then we can register staking pools and buy shares
- - PPoS initial voting height: 80640, then we gain profits
+ - PPoS initial voting height: 120320, then we gain profits
  - WASM smart contracts(TestNet). 
 
 ### PPoS HowTo
