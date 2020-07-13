@@ -9,7 +9,7 @@ Darma Cash Project v2 is the next generation of Darma Cash blockchain v1. Consen
 ### Darma Cash Project blockchain has the following features:
  - DAG Based: No orphan blocks, No soft-forks.
  - 15 Second Block time.
- - Default Fee: 0.03 DMCH/KB
+ - Default Fee: 0.01 DMCH/KB
  - PPoS hard-fork height: 40320, then we can register staking pools and buy shares
  - PPoS initial voting height: 120320, then we gain profits
  - WASM smart contracts(TestNet). 
