@@ -30,7 +30,7 @@ Darma Cash Project DAG implementation builds outs a main chain from the DAG netw
 
 The source code is coming soon ...
 
-### Darma Cash Quickstart
+### Darma Cash Project Quickstart
 1. Choose your Operating System and [Download Darma Cash Project Software](https://github.com/darmaproject/darmasuite-v2/releases)
 2. Start darmad daemon and wait to fully sync till prompt "(0.00%, 0 left)".
 3. Open new cmd prompt and run darma-wallet-cli.
