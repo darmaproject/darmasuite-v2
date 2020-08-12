@@ -1,7 +1,7 @@
 # Darma Cash Project: Secure, Private DAG Blockchain with Smart Contracts
 
 ## ABOUT DARMA CASH PROJECT
-Darma Cash Project (DMCH) is a high-speed blockchain which aims to integrate state-of-the-art privacy technologies on the basis of Monero (XMR) to achieve truly private addresses, concealed financial data, masked identities, traceless IP, private Smart Contracts and DeFi based on Oracle and atomic swap technology.
+Darma Cash Project (DMCH) is the cutting-edge of a new generation of anonymous blockchain based on Monero (XMR). DMCH adopts the Block Dag block ledger with PPoS and integrates private addresses, concealed financial data, masked identities, traceless IP, private smart contracts and DeFi/DEX on the privacy framework of Monero. The goal of the DMCH project is to establish a decentralized distributed privacy community ecosystem on top of the DMCH public chain; DMCH introduced the core concept of Pool Pos (PPoS), which means decentralized PoS without node restrictions aiming to realize a high-speed private global SDWAN through the expansion of PPoS nodes. DMCH is not only crypto currency but also a decentralized private Internet.
 
 ## ABOUT DARMA CASH PROJECT V2
 Darma Cash Project v2 is the next generation of Darma Cash Project v1. Consensus algorithm is PoW+PPoS(We call the decentralized PoS without node restrictions Pool PoS, or PPoS) based on original cryptonight. Darma Cash Project is industry leading blockchain to have bulletproofs, TLS encrypted Network. PPoS and smart contracts will be launched in this version.
